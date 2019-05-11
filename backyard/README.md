@@ -28,15 +28,10 @@ Inside では、セッションと AMA ブースの 2 つをコンテンツと�
 
 2019年5月18日（土）
 
-### 募集開始日
-
-- 開催日の一ヶ月前(?)
-- 募集開始用の connpass は早めにオープンしよう
-
 ### イベント募集ページURL
 
-- 先着枠？抽選枠併用？
-- 募集人数はハコの大きさ * 1.2〜1.3 くらい？
+- [Inside Frontend #3 | Peatix](https://inside-frontend-3.peatix.com/) （メイン）
+- [Inside Frontend #3 - connpass](https://inside-frontend.connpass.com/event/126382/) （過去イベント参加者の送客用）
 
 ### 会場
 
@@ -45,26 +40,22 @@ Inside では、セッションと AMA ブースの 2 つをコンテンツと�
 ### ハッシュタグ
 
 TODO
-| 区分                | ハッシュタグ       |
-| ----------------- | ------------ |
-| 全体                | #insideFE    |
-| カンファレンスルーム (ルームA) | #insideFE #insideFE_a |
-| セミナールーム (ルームB)    | #insideFE #insideFE_b |
-| AMA ブース           | hmmm....     |
+| 区分             | ハッシュタグ       |
+| --------------- | ------------ |
+| 全体             | #insideFE    |
+| セミナールームA    | #insideFE #insideFE_a |
+| セミナールームB    | #insideFE #insideFE_b |
+| セミナールームC    | #insideFE #insideFE_c |
 
 ## ロール別
 
-### セッションスピーカーの方へ
+### スピーカーの方へ
 
-[FOR_SESSION_SPEAKER.md](./FOR_SESSION_SPEAKER.md) を参照のこと。
-
-### AMA ブースオーナーの方へ
-
-[FOR_BOOTH_OWNER.md](./FOR_BOOTH_OWNER.md) を参照のこと。
+[FOR_SPEAKER.md](./FOR_SPEAKERS.md) をご参照ください
 
 ### スタッフ、サポート人員の方へ
 
-[FOR_STAFF.md](./FOR_STAFF.md) を参照のこと。
+[FOR_STAFF.md](./FOR_STAFF.md) をご参照ください。
 
 ## 共催各社
 
